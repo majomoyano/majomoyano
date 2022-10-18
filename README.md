@@ -14,5 +14,11 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Majo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Majo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Majo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  --<img align="right" alt="Majo-pic" height="150" style="border-radius:50px;" src="[https://previews.dropbox.com/p/thumb/ABtyMDPPm-1xxgmoYETwzvW7DQURNAeWMX8HKWtPSwz5h4qkjMR-D0Z2qGsGIX7YBJSkOXNr9HgNxeras8_olPx2rOykOofZiTn_EgVAUt_Wtu_vfqVwD164tqLowsGi_W4jcSBGps5PY25XX_cz5o6Ca6vgTuWToSUrqDqDW94CdeRih1i9Z3pIP0Q0FecGJ3Kl3xsvivhXB5ps8WDKlNWvaIpplnQ-HgYPIiWHbb-MNpOcNgiAWp0My18VJZGtwMSb7b7dKv1lKWxA9lbvhi2MuvaaMTvH6gTyZc2qZMetoYXIfzrNc7Vj0qzDPSNqq2tu-08IqvHqpoIODV77j3KdlERTScXi8rwp9qcHjNOl7DP2PxY9y9c0cGcavB-kJ1k/p.png](https://previews.dropbox.com/p/thumb/ABtyMDPPm-1xxgmoYETwzvW7DQURNAeWMX8HKWtPSwz5h4qkjMR-D0Z2qGsGIX7YBJSkOXNr9HgNxeras8_olPx2rOykOofZiTn_EgVAUt_Wtu_vfqVwD164tqLowsGi_W4jcSBGps5PY25XX_cz5o6Ca6vgTuWToSUrqDqDW94CdeRih1i9Z3pIP0Q0FecGJ3Kl3xsvivhXB5ps8WDKlNWvaIpplnQ-HgYPIiWHbb-MNpOcNgiAWp0My18VJZGtwMSb7b7dKv1lKWxA9lbvhi2MuvaaMTvH6gTyZc2qZMetoYXIfzrNc7Vj0qzDPSNqq2tu-08IqvHqpoIODV77j3KdlERTScXi8rwp9qcHjNOl7DP2PxY9y9c0cGcavB-kJ1k/p.png)">
+  <img align="right" alt="Majo-pic" height="150" style="border-radius:50px;" src=" https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
+</div>
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/maria-jose-moyano-tamayo-32403a210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   ![Snake animation](https://github.com/majomoyano/majomoyano/blob/output/github-contribution-grid-snake.svg)
 </div>
