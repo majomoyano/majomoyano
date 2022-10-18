@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center"><a href="https://majomoyano.github.io"><img width="80%" alt="Hello, I'm Majo!" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
+
 
 
  </div>
