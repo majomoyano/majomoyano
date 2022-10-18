@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @majomoyano ✨
-<br>
-<img align='center' alt="Majo-pic0" height="150" style="border-radius:50px;" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
-<br>
+ </div>
+## 👋 Hi, I’m @majomoyano ✨
+<div style="display: inline_block"><br>
+<img align='right' alt="Majo-pic0" height="150" style="border-radius:50px;" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
+
+ </div>
 
 <!---
 majomoyano/majomoyano is a  special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,12 +33,16 @@ python image logo: "https://raw.githubusercontent.com/devicons/devicon/master/ic
  
 <div> 
   <a href="https://www.linkedin.com/in/maria-jose-moyano-tamayo-32403a210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
-  ![Snake animation](https://github.com/majomoyano/majomoyano/blob/output/github-contribution-grid-snake.svg)
- <img align='center' src='https://github.com/majomoyano/majomoyano/blob/output/github-contribution-grid-snake.gif' width='900"'>
 </div>
 
+
+
+
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
+
 
 <p align="center">
   Made with ❤️ 
