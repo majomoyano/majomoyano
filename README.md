@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Majo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <!--<img align="left" alt="Majo-pic1" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp"> 
 -->
-<img align="right" alt="Majo-pic1" src="https://i.picasion.com/pic92/b1ac6ce563c58935c28664d6831b17d2.gif" width="150" height="150" border="50" alt="https://picasion.com/" /></a><br />
+
  
  
 </div>
